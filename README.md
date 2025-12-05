@@ -1,0 +1,2 @@
+# AleshaPopovlchAI
+AleshaPopovlch НЕЙРОСЕТЬ
